@@ -1,6 +1,6 @@
 package main;
 
-import java.util.Scanner;
+
 
 /**
  * @author Hardik Gupta
@@ -8,10 +8,12 @@ import java.util.Scanner;
  */
 public class Main {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        String s = in.nextLine();
-        System.out.print("Welcome, " + s);
-
 
     }
+
+
+
+
+
+
 }
